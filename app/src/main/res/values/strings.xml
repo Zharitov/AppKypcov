@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FinalstudyAppKypcov</string>
+    <string name="start_game">Начать игру</string>
+    <string name="gallery_button">Галерея</string>
+    <string name="condition_text_description">Для победы наберите 10 очков</string>
+    <string name="point">Очки:</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dev_name">Итоговую работу выполнил Купцов Сергей Сергеевич</string>
+    <string name="game">Игра</string>
+    <string name="about">О программе</string>
+    <string name="gallery">Галерея</string>
+</resources>
